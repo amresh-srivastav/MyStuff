@@ -1,1 +1,2 @@
 C:\Users\amresh.srivastav\Documents\Visual Studio 2015\Projects\GitHub\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\amresh.srivastav\Documents\Visual Studio 2015\Projects\GitHub\MyStuff\TestApplication\bin\Debug\TestApplication.exe.config
