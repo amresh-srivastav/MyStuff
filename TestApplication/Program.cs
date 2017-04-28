@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-	      //merge new1
+	      //merge new1 and deleted
         }
     }
 }
